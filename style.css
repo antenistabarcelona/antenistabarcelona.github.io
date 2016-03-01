@@ -234,6 +234,10 @@ input[type="radio"] {
 @media (max-width: 767px) {
 
 
+.pull-right {
+    float: none !important;
+  
+}
 
 ul.nav.navbar-nav.pull-right {
     width: 100%;
