@@ -11,6 +11,13 @@ p {
     margin: 0 0 20px;
 }
 
+    .jumbotron {
+
+        background: url('antenista-barcelona.jpg') center center;
+        background-size: cover;
+        color: #fff;
+    }
+
 
 .logos img{max-width: 120px}
 
@@ -209,9 +216,7 @@ input[type="radio"] {
     .jumbotron {
         padding-top: 150px !important;
         padding: 90px 0;
-        background: url('antenista-barcelona.jpg') center center;
-        background-size: cover;
-        color: #fff;
+  
     }
 
 
@@ -226,9 +231,7 @@ input[type="radio"] {
     .jumbotron {
         padding-top: 100px !important;
         padding: 80px 0;
-        background: url('antenista-barcelona.jpg') center center;
-        background-size: cover;
-        color: #fff;
+ 
     }
 
     footer {
