@@ -234,6 +234,9 @@ input[type="radio"] {
 @media (max-width: 767px) {
 
 
+
+footer {text-align: center}
+
 .pull-right {
     float: none !important;
   
